@@ -1,6 +1,6 @@
 # My Mapping Portfolio
 
-This is my personal mapping portfolio repository. I built this portfolio with the tools, knowledge, and data of many parties. 
+This is my personal mapping portfolio repository. I built this portfolio with the tools, knowledge, and data of many parties. You can [see the live site here](https://phillipashford.github.io/673-portfolio/)!
 
 ## Tools I Used
 - Leaflet.js
